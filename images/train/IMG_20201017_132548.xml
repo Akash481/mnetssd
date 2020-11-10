@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ssddata</folder>
+	<filename>IMG_20201017_132548.jpg</filename>
+	<path>C:\Users\Akash Kumar\Downloads\ssddata\IMG_20201017_132548.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>5120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>2117</ymin>
+			<xmax>969</xmax>
+			<ymax>3391</ymax>
+		</bndbox>
+	</object>
+</annotation>
